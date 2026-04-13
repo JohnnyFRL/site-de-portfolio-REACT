@@ -18,21 +18,33 @@ function Home() {
       <p>Desenvolvimento web, programação e ciência de dados.</p>
 
       <h3>Contatos</h3>
-      <p>Email: jcf@ufpe.br</p>
 
       <p>
-        LinkedIn: 
-        <a href="https://linkedin.com/in/johnnycleiton" target="_blank" rel="noopener noreferrer">
-          linkedin.com/in/johnnycleiton
-        </a>
-      </p>
+        Email: 
+       <a href="mailto:jcfl2@ufpe.br">
+        jcfl2@ufpe.br
+      </a>
+     </p>
+     <p> LinkedIn: 
+  <a 
+    href="https://www.linkedin.com/in/johnny-cleiton-ferreira-lins-245247324" 
+    target="_blank" 
+    rel="noopener noreferrer"
+  >
+    linkedin.com/in/johnny-cleiton
+  </a>
+   </p>
 
-      <p>
-        GitHub: 
-        <a href="https://github.com/JohnnyFRL" target="_blank" rel="noopener noreferrer">
-          github.com/JohnnyFRL
-        </a>
-      </p>
+   <p>
+  GitHub: 
+  <a 
+    href="https://github.com/JohnnyFRL" 
+    target="_blank" 
+    rel="noopener noreferrer"
+  >
+    github.com/JohnnyFRL
+  </a>
+</p>
 
     </div>
   )
