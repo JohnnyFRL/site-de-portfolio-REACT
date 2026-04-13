@@ -18,6 +18,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/sobre" element={<Sobre />} />
         <Route path="/portfolio" element={<Portfolio />} />
+          <Route path="*" element={<Home />} />
       </Routes>
     </BrowserRouter>
   )
