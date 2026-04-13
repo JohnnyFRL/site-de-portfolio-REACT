@@ -1,10 +1,16 @@
+import marioHome from "../assets/marioHome.gif"
+
 function Home() {
   return (
-    <div>
+    <div className="container">
+
       <h1>Johnny Cleiton</h1>
 
+      {/* 👇 DINOSSAURO AQUI */}
+      <img src={marioHome} className="mari" alt="Mari" />
+
       <p>
-         sou estudando de sistema de informação da UFPE,
+        sou estudando de sistema de informação da UFPE,
         tenho 24 anos e sou apaixonado por tecnologia e inovação.
       </p>
 
@@ -27,6 +33,7 @@ function Home() {
           github.com/JohnnyFRL
         </a>
       </p>
+
     </div>
   )
 }

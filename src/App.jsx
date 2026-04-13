@@ -2,6 +2,8 @@ import { BrowserRouter, Routes, Route, Link } from "react-router-dom"
 import Home from "./pages/home"
 import Sobre from "./pages/sobre"
 import Portfolio from "./pages/portfolio"
+import './App.css'
+import marioataque from './assets/marioataque.gif'
 
 function App() {
   return (
