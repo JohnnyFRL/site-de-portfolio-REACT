@@ -10,8 +10,9 @@ function Home() {
       <img src={marioHome} className="mari" alt="Mari" />
 
       <p>
-        sou estudando de sistema de informação da UFPE,
-        tenho 24 anos e sou apaixonado por tecnologia e inovação.
+        Sou estudante de Sistemas de Informação na UFPE, apaixonado por tecnologia e inovação, 
+        sempre em busca de aprender, resolver problemas e transformar ideias em soluções 
+        (às vezes com café, às vezes com teimosia).
       </p>
 
       <h3>Interesses</h3>
