@@ -61,8 +61,21 @@ function Portfolio() {
         projeto 1: Desenvolvimento de uma história em quadrinhos utilizando diferentes ferramentas de inteligência artificial.
       </p>
       <p>
-        Projeto 2: implementação de algoritmos para resolução de labirintos,
+        Projeto 2: MadAi um Assistente de estudos irritado 
+          que responde de forma sarcástica e engraçada, utilizando técnicas de processamento de linguagem natural para interagir com os usuários.
+      </p>
+      <h3>Projeto de sistemas inteligentes</h3>
+      <p>
+        implementação de algoritmos para resolução de labirintos,
         explorando técnicas de busca e caminhos.
+      </p>
+       <h3>Exoconnect - empreendimentos em informatica</h3>
+      <p>
+        Sistema que auxilia na conexão entre vendedores e compradores de animais exóticos
+      </p>
+      <h3>Projeto de infraestrutura de Software</h3>
+      <p>
+        Companhia de ônibus simulando o funcionamento de Threads em Java
       </p>
     </div>
   )
